@@ -103,9 +103,9 @@ python "06. Gold - Final Transformations.py"
 | Tool/Service        | Purpose                                |
 |---------------------|----------------------------------------|
 | Python              | Core ETL scripting and transformation  |
-| SQL                 | Aggregation and validation             |
+| PySpark             | Aggregation and validation             |
 | Databricks          | Job orchestration and distributed processing |
-| GitHub Actions      | CI/CD automation                       |
+| Azure DevOps        | CI/CD automation                       |
 | Power BI            | Visual reporting & dashboards          |
 
 ---
